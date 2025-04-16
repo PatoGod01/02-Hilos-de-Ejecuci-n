@@ -1,6 +1,7 @@
 README - Búsqueda de Números Primos con Hilos en Java
+Alumno : Sernaqué Gutierrez José Robert
 
-📝 Descripción del Proyecto
+📝 Descripción del Proyecto:
 Este proyecto implementa dos enfoques para encontrar números primos hasta un valor N:
 
 Versión secuencial: Búsqueda tradicional usando un solo hilo de ejecución
