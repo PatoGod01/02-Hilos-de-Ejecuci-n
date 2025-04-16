@@ -14,19 +14,6 @@ Java JDK 17 o superior
 
 IDE NetBeans (recomendado) o cualquier IDE Java
 
-Sistema operativo: Windows, Linux o macOS
-
-🏗️ Estructura del Proyecto:
-
-HilosEjecucion/
-├── src/
-│   ├── HilosEjecucion/
-│   │   ├── Main.java            # Clase principal con método main
-│   │   ├── PrimeSecuencial.java # Implementación secuencial
-│   │   └── PrimeParalelo.java   # Implementación con hilos
-├── README.md                    # Este archivo
-└── nbproject/                   # Configuración de NetBeans (si se usa)
-
 🚀 Cómo Ejecutar el Proyecto
 Clonar el repositorio o descargar los archivos
 
